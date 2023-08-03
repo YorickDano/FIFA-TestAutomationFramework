@@ -1,0 +1,6 @@
+﻿C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\API\Managers\SearchManagerRestEase.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\API\Managers\SearchManagerRestSharp.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\API\RestEaseClient\RestEaseClient.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\API\RestSharpClient\APIClient.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\API\RestSharpClient\APIClientPool.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\API\Services\RequestBuilder.cs

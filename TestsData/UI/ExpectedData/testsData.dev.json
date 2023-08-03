@@ -1,0 +1,16 @@
+{
+  "RedirectionTestData": {
+    "ExpectedUrl": "https://www.instagram.com/accounts/login/?next=/fifaworldcup/"
+  },
+  "FifaPartnersTestData": {
+    "ExpectedPartners": [
+      "Adidas",
+      "Coca Cola",
+      "Wanda group",
+      "Hyundai",
+      "Qatar Airways",
+      "Qatar Energy",
+      "VISA"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "BrowserSettingsModel": {
+    "BrowserName": "chrome",
+    "BaseUrl": "https://www.fifa.com/",
+    "ImplicitWait": 10
+  },
+  "BrowserStack": {
+    "userName": "alexdubeshko_bTPzWi",
+    "accessKey": "p9Zf92TyrcuGhuUMq2Up",
+    "url": "https://hub-cloud.browserstack.com/wd/hub/"
+  },
+  "ApiSettingsModel": {
+    "BaseUrl": "https://www.fifa.com/api",
+    "Timeout":  5000
+  },
+  "User": [
+    {
+      "EmailAddress": "prutauttirouboi-9194@yopmail.com",
+      "Password": "12#QWEasd"
+    },
+    {
+      "EmailAddress": "quetoubrawafre-7281@yopmail.com",
+      "Password": "12#QWEasd"
+    },
+    {
+      "EmailAddress": "jafoseddaqua-4201@yopmail.com",
+      "Password": "12#QWEasd"
+    }
+  ]
+}

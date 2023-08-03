@@ -1,0 +1,10 @@
+﻿C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\PageObjects\Footer\Footer.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\PageObjects\Header\Header.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\PageObjects\MainPage\FifaPartnersSection.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\PageObjects\MainPage\FooterLanguageSection.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\PageObjects\MainPage\HeaderMenuSection.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\PageObjects\MainPage\MainPage.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\PageObjects\MainPage\SearchSection.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\PageObjects\MainPage\SocialNetworkSection.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\PageObjects\SearchPages\SearchedPage.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\PageObjects\WorldRankingPage\WorldRankingPage.cs

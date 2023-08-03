@@ -1,0 +1,12 @@
+﻿C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\CheckLinksManager.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\ConfirmPrivacyManager.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\Enums\HeaderLink.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\Enums\Language.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\Enums\Partner.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\Enums\SocialNetwork.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\HeaderMenuManager.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\LanguageManager.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\PartnersManager.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\SearchManager.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\SocialNetworksManager.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Core.UI\WorldRankingManager.cs

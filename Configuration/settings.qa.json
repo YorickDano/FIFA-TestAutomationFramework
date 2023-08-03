@@ -1,0 +1,17 @@
+{
+  "BrowserSettingsModel": {
+    "BrowserName": "firefox",
+    "BaseUrl": "https://www.fifa.com/",
+    "ImplicitWait": 5
+  },
+  "ApiSettingsModel": {
+    "BaseUrl": "https://www.fifa.com/api",
+    "Timeout": 5000
+  },
+  "User": [
+    {
+      "EmailAddress": "prutauttirouboi-9194@yopmail.com",
+      "Password": "12#QWEasd"
+    }
+  ]
+}

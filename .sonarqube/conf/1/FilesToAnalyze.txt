@@ -1,0 +1,3 @@
+﻿C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Configuration\ConfigurationManager.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Configuration\settings.dev.json
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Configuration\settings.qa.json

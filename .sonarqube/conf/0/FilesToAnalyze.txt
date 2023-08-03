@@ -1,0 +1,16 @@
+﻿C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\API\ApiSearch\FifaSearchApi.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\API\ApiSearch\Highlight.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\API\ApiSearch\Hit.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\API\ApiSearch\Image.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\API\ApiSearch\SearchResults.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\API\ApiSearch\SearchResultsRoot.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\API\ApiSearch\Shards.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\API\ApiSearch\Source.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\API\ApiSearch\Total.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\API\ApiSettingsModel.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\BrowserSettings\BrowserSettingsModel.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\BrowserSettings\BrowserStack.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\SingOn\User.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\SingOn\UserRoot.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\Tests\FifaPartnersTestData.cs
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\Models\Tests\RedirectionTestData.cs

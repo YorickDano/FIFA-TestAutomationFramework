@@ -1,0 +1,696 @@
+{
+  "searchResults": {
+    "took": 13,
+    "timed_out": false,
+    "_shards": {
+      "total": 1,
+      "successful": 1,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 250,
+        "relation": "eq"
+      },
+      "max_score": 10.762404,
+      "hits": [
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_6zTNNe48usRMR6cvULZefB",
+          "_score": 10.762404,
+          "_source": {
+            "contentDate": "2022-02-05T00:00:00",
+            "image": {
+              "focalPosX": 2388,
+              "src": "https://digitalhub.fifa.com/m/b120c4477e180c35/original/owmtiqhgxc6spaujgsua-jpg.jpg",
+              "focalPosY": 1592,
+              "alt": "AL AIN, UNITED ARAB EMIRATES - DECEMBER 09: Hussein El Shahat looks on  during the Al Ain training session at the Khalifa Bin Zayed Stadium on December 09, 2018 in Al Ain, United Arab Emirates. (Photo by Michael Regan - FIFA/FIFA via Getty Images)",
+              "width": 4777,
+              "title": "owmtiqhgxc6spaujgsua.jpg",
+              "height": 3185
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://youtu.be/T5zZ52unoSU\"}",
+            "recordType": "video",
+            "description": "Al Ahly winger Hussein El Shahat insists his side are aiming to become the first African team to win the FIFA Club World Cup, having finished in third place last time out. ",
+            "id": "87l57l15xjbo_6zTNNe48usRMR6cvULZefB",
+            "locale": "en",
+            "title": "El Shahat: We are playing to win the title",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/6zTNNe48usRMR6cvULZefB",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "title": [ "El Shahat: We are <b>playing</b> to win the title" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_18eThyVG3JhOhQQDaVRASj",
+          "_score": 10.688729,
+          "_source": {
+            "contentDate": "2021-11-27T00:00:00",
+            "image": {
+              "focalPosX": 160,
+              "src": "https://digitalhub.fifa.com/m/4a63285974871ceb/original/European-Play-off-Draw-Intercontinental-Play-off-Draw-FIFA-World-Cup-Qatar-2022.jpeg",
+              "focalPosY": 90,
+              "alt": "",
+              "width": 320,
+              "title": "European Play-off Draw & Intercontinental Play-off Draw | FIFA World Cup Qatar 2022",
+              "height": 180
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=dGOLH2tE7gg\"}",
+            "recordType": "video",
+            "semanticTags": [ "FIFA World Cup Qatar 2022�" ],
+            "id": "87l57l15xjbo_18eThyVG3JhOhQQDaVRASj",
+            "locale": "en",
+            "title": "European Play-off Draw & Intercontinental Play-off Draw | FIFA World Cup Qatar 2022",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/18eThyVG3JhOhQQDaVRASj",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "title": [ "European <b>Play</b>-off Draw & Intercontinental <b>Play</b>-off Draw | FIFA World Cup Qatar 2022" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_B625D657403BE6B7593AB62630361909",
+          "_score": 8.457401,
+          "_source": {
+            "contentDate": "2019-07-12T13:30:02",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/25283787fb114511/original/uxwbkbxobhasps8icfb6-jpg.jpg",
+              "alt": "",
+              "width": 4101,
+              "title": "uxwbkbxobhasps8icfb6.jpg",
+              "height": 2766
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=bRUCUvaBNJo\"}",
+            "recordType": "video",
+            "description": "In honour of 2019, which some are calling �The Year of Women�s Football�, FIFA is proud to bring you a six-part series called #Sheroes, focusing on females with inspirational stories that fuse �The Beautiful Game� and love.\n\nThe 3rd part of the series is the story of USA women's national team player Amy Rodriguez, who has juggled a full-time playing career, that includes winning a FIFA Women's World Cup, and having two children.",
+            "semanticTags": [ "Tournaments", "FIFA Women's World Cup France 2019�" ],
+            "id": "87l57l15xjbo_B625D657403BE6B7593AB62630361909",
+            "locale": "en",
+            "title": "USA champion juggles playing, kids and medals",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/B625D657403BE6B7593AB62630361909",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "The 3rd part of the series is the story of USA women's national team player Amy Rodriguez, who has juggled a full-time <b>playing</b> career, that includes winning" ],
+            "title": [ "USA champion juggles <b>playing</b>, kids and medals" ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_FA76CE9B3F6FD8EEC45E9FF0FC4CEE4A",
+          "_score": 8.176593,
+          "_source": {
+            "contentDate": "2019-09-23T23:32:48",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/1d41acbce6c45373/original/vy148tug1n3hqalcqzkf-jpg.jpg",
+              "alt": "",
+              "width": 4251,
+              "title": "vy148tug1n3hqalcqzkf.jpg",
+              "height": 3083
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=oldb6DWqCG0\"}",
+            "recordType": "video",
+            "description": "Leeds United players after accepting the FIFA Fair Play Award 2019 on behalf of Marcelo Bielsa and Leeds United at Milan's Teatro alla Scala.",
+            "semanticTags": [ "The Best Awards", "The Best - FIFA Football Awards 2019" ],
+            "id": "87l57l15xjbo_FA76CE9B3F6FD8EEC45E9FF0FC4CEE4A",
+            "locale": "en",
+            "title": "Marcelo Bielsa and Leeds United squad reaction - FIFA Fair Play Award 2019",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/FA76CE9B3F6FD8EEC45E9FF0FC4CEE4A",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "Leeds United players after accepting the FIFA Fair <b>Play</b> Award 2019 on behalf of Marcelo Bielsa and Leeds United at Milan's Teatro alla Scala." ],
+            "title": [ "Marcelo Bielsa and Leeds United squad reaction - FIFA Fair <b>Play</b> Award 2019" ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_F52D1CA219DB7FD552B5225C90B48182",
+          "_score": 7.0214663,
+          "_source": {
+            "contentDate": "2019-05-08T13:09:01",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/27f25b95127cbe8b/original/zcoc2wkzfey9qrfzhp43-jpg.jpg",
+              "alt": "",
+              "width": 1280,
+              "title": "zcoc2wkzfey9qrfzhp43.jpg",
+              "height": 720
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=zoOzB8BF8LE\"}",
+            "recordType": "video",
+            "description": "Scotland and Manchester City forward Caroline Weir spoke to us about her excitement for the #FIFAWWC, her expectations for the SWNT in France and the challenge of facing club team-mate Steph Houghton in Scotland�s opening game against England.",
+            "semanticTags": [ "Tournaments", "Scotland", "FIFA Women's World Cup France 2019�" ],
+            "id": "87l57l15xjbo_F52D1CA219DB7FD552B5225C90B48182",
+            "locale": "en",
+            "title": "Caroline Weir: \"You dream of playing at a World Cup\"",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/F52D1CA219DB7FD552B5225C90B48182",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "title": [ "Caroline Weir: \"You dream of <b>playing</b> at a World Cup\"" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_3AEBE9C1E3715C78E0C4F5DA494AEDA1",
+          "_score": 6.8810096,
+          "_source": {
+            "contentDate": "2017-10-17T15:19:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/79940d2b6faf2823/original/lpm1bo888xjxphgpyi4h-jpg.jpg",
+              "alt": "",
+              "width": 1280,
+              "title": "lpm1bo888xjxphgpyi4h.jpg",
+              "height": 720
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=5dq5GwFI3q0\"}",
+            "recordType": "video",
+            "description": "Gabriele Oriali, Italy Team Manager gives his reaction to the European Play-off Draw. Italy were drawn against Sweden.",
+            "semanticTags": [ "Tournaments", "2018 FIFA World Cup Russia�" ],
+            "id": "87l57l15xjbo_3AEBE9C1E3715C78E0C4F5DA494AEDA1",
+            "locale": "en",
+            "title": "Gabriele Oriali - European Play-Off Draw Reaction (EXCLUSIVE)",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/3AEBE9C1E3715C78E0C4F5DA494AEDA1",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "Gabriele Oriali, Italy Team Manager gives his reaction to the European <b>Play</b>-off Draw. Italy were drawn against Sweden." ],
+            "title": [ "Gabriele Oriali - European <b>Play</b>-Off Draw Reaction (EXCLUSIVE)" ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_9AA111D759F618BE8FEC864669201561",
+          "_score": 6.792066,
+          "_source": {
+            "contentDate": "2016-10-17T10:02:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/42f5068de6d0e88b/original/vcfxro88kp9tmyl5q1et-jpg.jpg",
+              "alt": "",
+              "width": 3952,
+              "title": "vcfxro88kp9tmyl5q1et.jpg",
+              "height": 2448
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=YHscrmbJ-5E\"}",
+            "recordType": "video",
+            "description": "To commemorate FIFA Fair Play Day at the FIFA U-17s Womens World Cup, here's some moments from the tournament so far. The Captains at todays Semi Finals will speak on behalf of their teams before the kick-off to show thier support for Fair Play.",
+            "semanticTags": [ "Social Impact", "Tournaments", "Organisation", "FIFA U-17 Women's World Cup Jordan 2016�" ],
+            "id": "87l57l15xjbo_9AA111D759F618BE8FEC864669201561",
+            "locale": "en",
+            "title": "FIFA Fair Play Day 2016",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/9AA111D759F618BE8FEC864669201561",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "To commemorate FIFA Fair <b>Play</b> Day at the FIFA U-17s Womens World Cup, here's some moments from the tournament so far.", "The Captains at todays Semi Finals will speak on behalf of their teams before the kick-off to show thier support for Fair <b>Play</b>." ],
+            "title": [ "FIFA Fair <b>Play</b> Day 2016" ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_B20BB84915FB9D427A50D8E7C02802EF",
+          "_score": 6.580493,
+          "_source": {
+            "contentDate": "2018-03-09T09:51:04",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/255c92c702b9330/original/jlckrh62wyoabyfofh6r-jpg.jpg",
+              "alt": "",
+              "width": 640,
+              "title": "jlckrh62wyoabyfofh6r.jpg",
+              "height": 480
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=Vo1K8ZSNfok\"}",
+            "recordType": "video",
+            "description": "97 - The number of goals scored from inside the penalty area during the 2014 FIFA World Cup Brazil�.",
+            "semanticTags": [ "Tournaments", "2018 FIFA World Cup Russia�" ],
+            "id": "87l57l15xjbo_B20BB84915FB9D427A50D8E7C02802EF",
+            "locale": "en",
+            "title": "97 DAYS TO GO! Playing the Odds",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/B20BB84915FB9D427A50D8E7C02802EF",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "title": [ "<b>Playing</b> the Odds" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_2E167554581D3C71421B61903DB2BCED",
+          "_score": 6.548524,
+          "_source": {
+            "contentDate": "2017-06-14T16:23:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/4f2d819e763ae144/original/gnykhyssmstd3nu4op4h-jpg.jpg",
+              "alt": "",
+              "width": 1280,
+              "title": "gnykhyssmstd3nu4op4h.jpg",
+              "height": 720
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=-q3n9_mkdhY\"}",
+            "recordType": "video",
+            "description": "Fair play and mutual respect are fundamental to football.Discriminatory behaviour is not permitted. We ask you to maintain the principles of fair play and to take part in football in a spirit of unity, respect and equality. Say No to Racism! For the first time in an official tournament, FIFA will use a three-step procedure in case of discriminatory incidents and also deploy anti-discrimination observers at all matches of the FIFA Confederations Cup 2017. With this three-step procedure, referees will have the authority to first stop the match and request a public announcement to insist that the discriminatory behaviour cease, to then suspend the match until the behaviour stops following another warning announcement, and finally, if the behaviour still persists, to decide to abandon the match.",
+            "semanticTags": [ "Social Impact", "Organisation", "FIFA Confederations Cup Russia 2017�", "Community Actions" ],
+            "id": "87l57l15xjbo_2E167554581D3C71421B61903DB2BCED",
+            "locale": "en",
+            "title": "Say No to Racism - My Game is Fair Play",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/2E167554581D3C71421B61903DB2BCED",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "Fair <b>play</b> and mutual respect are fundamental to football.Discriminatory behaviour is not permitted.", "We ask you to maintain the principles of fair <b>play</b> and to take part in football in a spirit of unity, respect and equality. Say No to Racism!" ],
+            "title": [ "Say No to Racism - My Game is Fair <b>Play</b>" ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_62D6B79500244A7E4E518CECF223DB74",
+          "_score": 6.3744464,
+          "_source": {
+            "contentDate": "2017-10-13T16:28:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/66c40ae58bcdd570/original/vv9ykugu5rizuyuqcklp-jpg.jpg",
+              "alt": "",
+              "width": 640,
+              "title": "vv9ykugu5rizuyuqcklp.jpg",
+              "height": 480
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=uXBXGIjLptA\"}",
+            "recordType": "video",
+            "description": "The draw will take place in Zurich on Tuesday 17 October and will be live streamed (14.00 local time) on YouTube and FIFA.com. At the draw, the eight participating teams will discover which nation stands between them and a place at the 2018 FIFA World Cup. Eight teams will compete in Round 2 of UEFA�s qualifiers for Russia 2018 and these home-and-away play-offs will determine the remaining four sides that will represent their continent on the global stage next year.",
+            "semanticTags": [ "Tournaments", "2018 FIFA World Cup Russia�" ],
+            "id": "87l57l15xjbo_62D6B79500244A7E4E518CECF223DB74",
+            "locale": "en",
+            "title": "Relive the Russia 2018 UEFA play-off draw",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/62D6B79500244A7E4E518CECF223DB74",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "Eight teams will compete in Round 2 of UEFA�s qualifiers for Russia 2018 and these home-and-away <b>play</b>-offs will determine the remaining four sides that" ],
+            "title": [ "Relive the Russia 2018 UEFA <b>play</b>-off draw" ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_6DABBDD754F8EEE67AC5FC29AEDE69C3",
+          "_score": 5.9465437,
+          "_source": {
+            "contentDate": "2018-09-24T20:41:53",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/2f3f92278cd2bcfa/original/oeoxly5w5gmvsxyezdki-jpg.jpg",
+              "alt": "",
+              "width": 1280,
+              "title": "oeoxly5w5gmvsxyezdki.jpg",
+              "height": 720
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=LeNaOtUBFWQ\"}",
+            "recordType": "video",
+            "description": "",
+            "semanticTags": [ "The Best Awards", "The Best - FIFA Football Awards 2018" ],
+            "id": "87l57l15xjbo_6DABBDD754F8EEE67AC5FC29AEDE69C3",
+            "locale": "en",
+            "title": "Lennart Thy reaction - FIFA Fair Play Award Winner 2018  -",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/6DABBDD754F8EEE67AC5FC29AEDE69C3",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "title": [ "Lennart Thy reaction - FIFA Fair <b>Play</b> Award Winner 2018  -" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_87926D5A14F3BC6517643172C10EA066",
+          "_score": 5.829577,
+          "_source": {
+            "contentDate": "2018-08-03T13:23:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/3b1aaff2c3a152b1/original/y5thy5qhzu9lwxvuyiub-jpg.jpg",
+              "alt": "",
+              "width": 4992,
+              "title": "y5thy5qhzu9lwxvuyiub.jpg",
+              "height": 3328
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=VnKMWEBfNuU\"}",
+            "recordType": "video",
+            "semanticTags": [ "Tournaments" ],
+            "id": "87l57l15xjbo_87926D5A14F3BC6517643172C10EA066",
+            "locale": "en",
+            "title": "REVIVE los play-offs de la FIFA eWorld Cup",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/87926D5A14F3BC6517643172C10EA066",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "title": [ "REVIVE los <b>play</b>-offs de la FIFA eWorld Cup" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_7D35FFC054E06BF5FD4D8001EA9FF664",
+          "_score": 5.5814977,
+          "_source": {
+            "contentDate": "2020-11-10T16:51:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/db9cb268dea18fca/original/nelauvqobq9tofsje3k9-jpg.jpg",
+              "alt": "",
+              "width": 1920,
+              "title": "nelauvqobq9tofsje3k9.jpg",
+              "height": 1080
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=ny5PiueBMv8\"}",
+            "recordType": "video",
+            "description": "Born and raised in New Jersey, Deiver �KakiFIFA� Lopez started playing FIFA at the age of 8 years old. When he first started playing, Deiver found himself losing to older, more experienced players. As a competitive person, he was motivated to win, so Diever focused on practicing his skills. He improved so much that he began to play competitively. #FameYourGame",
+            "semanticTags": [ "Tournaments" ],
+            "id": "87l57l15xjbo_7D35FFC054E06BF5FD4D8001EA9FF664",
+            "locale": "en",
+            "title": "Deiver Lopez | Fame Your Game",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/7D35FFC054E06BF5FD4D8001EA9FF664",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "description": [ "Born and raised in New Jersey, Deiver �KakiFIFA� Lopez started <b>playing</b> FIFA at the age of 8 years old.", "When he first started <b>playing</b>, Deiver found himself losing to older, more experienced players.", "He improved so much that he began to <b>play</b> competitively. #FameYourGame" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_C8BCAD40331998FC4BA498F9542B3CBE",
+          "_score": 5.418181,
+          "_source": {
+            "contentDate": "2016-01-11T22:01:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/5905a1f6467b078b/original/yfv8l5gd5v9ewvlbc707-jpg.jpg",
+              "alt": "",
+              "width": 4772,
+              "title": "yfv8l5gd5v9ewvlbc707.jpg",
+              "height": 3280
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=AJhKH6cQAKQ\"}",
+            "recordType": "video",
+            "description": "This year�s FIFA Fair Play Award was presented to all the football organisations and clubs around the world that are working to support refugees. Former German international Gerald Asamoah, who campaigns for the welfare of refugees, received the award from former South African icon Lucas Radebe. �",
+            "semanticTags": [ "The Best Awards", "FIFA Ballon d'Or 2015" ],
+            "id": "87l57l15xjbo_C8BCAD40331998FC4BA498F9542B3CBE",
+            "locale": "en",
+            "title": "FIFA Fair Play Award reaction [German]",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/C8BCAD40331998FC4BA498F9542B3CBE",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "This year�s FIFA Fair <b>Play</b> Award was presented to all the football organisations and clubs around the world that are working to support refugees." ],
+            "title": [ "FIFA Fair <b>Play</b> Award reaction [German]" ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_CAC581E7ECE32098AA5906328E8FF33F",
+          "_score": 5.189595,
+          "_source": {
+            "contentDate": "2016-02-08T09:37:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/51950dbe9f9a57a7/original/saptkwieo84ycwt2o79h-jpg.jpg",
+              "alt": "",
+              "width": 1280,
+              "title": "saptkwieo84ycwt2o79h.jpg",
+              "height": 719
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=AXfBH5Rw-lA\"}",
+            "recordType": "video",
+            "description": "Watch retired German international Celia Sasic play FIFA Interactive World Cup champion Abdulaziz Alshehri in the back of a limousine during the 2015 Ballon d�Or.",
+            "semanticTags": [ "Tournaments", "The Best Awards", "FIFA Interactive World Cup� 2016", "FIFA Ballon d'Or 2015" ],
+            "id": "87l57l15xjbo_CAC581E7ECE32098AA5906328E8FF33F",
+            "locale": "en",
+            "title": "Women's star plays FIFA versus FIWC champion (Short Version)",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/CAC581E7ECE32098AA5906328E8FF33F",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "Watch retired German international Celia Sasic <b>play</b> FIFA Interactive World Cup champion Abdulaziz Alshehri in the back of a limousine during the 2015 Ballon" ],
+            "title": [ "Women's star <b>plays</b> FIFA versus FIWC champion (Short Version)" ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_E2186DDF80AFFC25E6E4AA5E2740119E",
+          "_score": 5.110578,
+          "_source": {
+            "contentDate": "2020-10-27T15:00:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/362c1850b5e906cc/original/por7b2egkx0fer1akaxg-jpg.jpg",
+              "alt": "",
+              "width": 1280,
+              "title": "por7b2egkx0fer1akaxg.jpg",
+              "height": 720
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=a2x1oC4ruiY\"}",
+            "recordType": "video",
+            "description": "Ouch! When you're a god, opponents play rough. See what the Argentina hero had to endure in the way of crunching tackles at the FIFA World Cup.",
+            "semanticTags": [ "Tournaments", "1982 FIFA World Cup Spain�", "1986 FIFA World Cup Mexico�", "1994 FIFA World Cup USA�", "1990 FIFA World Cup Italy�", "Argentina" ],
+            "id": "87l57l15xjbo_E2186DDF80AFFC25E6E4AA5E2740119E",
+            "locale": "en",
+            "title": "Crazy Fouls On Diego Maradona",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/E2186DDF80AFFC25E6E4AA5E2740119E",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "description": [ "When you're a god, opponents <b>play</b> rough. See what the Argentina hero had to endure in the way of crunching tackles at the FIFA World Cup." ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_F071356E825420F17116DD42C0A7BB71",
+          "_score": 4.974792,
+          "_source": {
+            "contentDate": "2015-10-07T02:52:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/8852f13386f0d7f/original/tjpmit32xfpcqfrc9bxn-jpg.jpg",
+              "alt": "",
+              "width": 5184,
+              "title": "tjpmit32xfpcqfrc9bxn.jpg",
+              "height": 3456
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=0i-uapFLwAM\"}",
+            "recordType": "video",
+            "description": "Watch stars from the FIFA Beach Soccer World Cup Portugal 2015 teach you how to pull off impressive moves and slick skills in this exciting discipline.",
+            "semanticTags": [ "Tournaments", "Technical Study Groups", "FIFA Beach Soccer World Cup Portugal 2015�", "Tahiti", "Portugal", "Tahiti", "FIFA Beach Soccer World Cup Bahamas 2017�", "Portugal", "Football Development", "Tahiti -  Portugal", "Final", "OFC", "UEFA" ],
+            "id": "87l57l15xjbo_F071356E825420F17116DD42C0A7BB71",
+            "locale": "en",
+            "title": "How to play beach soccer",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/F071356E825420F17116DD42C0A7BB71",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "title": [ "How to <b>play</b> beach soccer" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_4374AC439160D1483EB349617E4100B0",
+          "_score": 4.9374785,
+          "_source": {
+            "contentDate": "2020-01-08T14:58:28",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/67ea308275a6cc5/original/gvp3wznjhc2vqdrjlfuk-jpg.jpg",
+              "alt": "",
+              "width": 5472,
+              "title": "gvp3wznjhc2vqdrjlfuk.jpg",
+              "height": 3648
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=Y3eHPZ2F-M8\"}",
+            "recordType": "video",
+            "description": "FIFA's Partners and Commercial Affiliates played a huge role in the success of Russia 2018.  Enjoy this recap video!",
+            "semanticTags": [ "Tournaments", "2018 FIFA World Cup Russia�" ],
+            "id": "87l57l15xjbo_4374AC439160D1483EB349617E4100B0",
+            "locale": "en",
+            "title": "2018 FIFA World Cup� - Marketing Highlights",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/4374AC439160D1483EB349617E4100B0",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "description": [ "FIFA's Partners and Commercial Affiliates <b>played</b> a huge role in the success of Russia 2018.  Enjoy this recap video!" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_BA76D9603BC5B2EA74254B19BE42E009",
+          "_score": 4.7799916,
+          "_source": {
+            "contentDate": "2019-11-22T02:26:56",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/724c9c9a7a1dc9c2/original/ufbtaqpprup1diqexxo5-jpg.jpg",
+              "alt": "",
+              "width": 1280,
+              "title": "ufbtaqpprup1diqexxo5.jpg",
+              "height": 720
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=X4Ieln-WWA0\"}",
+            "recordType": "video",
+            "description": "Switzerland held off the USA in an 8-6 victory in what was a thrilling match to open up Group A play.",
+            "semanticTags": [ "Tournaments", "USA", "Switzerland", "FIFA Beach Soccer World Cup Paraguay 2019�", "Switzerland - USA" ],
+            "id": "87l57l15xjbo_BA76D9603BC5B2EA74254B19BE42E009",
+            "locale": "en",
+            "title": "Switzerland 8-6 USA (Paraguay 2019)",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/BA76D9603BC5B2EA74254B19BE42E009",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "description": [ "Switzerland held off the USA in an 8-6 victory in what was a thrilling match to open up Group A <b>play</b>." ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_45CC079FA586B061B226E6BA278B24D7",
+          "_score": 4.7102365,
+          "_source": {
+            "contentDate": "2013-12-20T17:41:00",
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=AEoML56_O9o\"}",
+            "recordType": "video",
+            "description": "Brazil international Mirandinha played for Newcastle and the Selecao in the 1980s, and now he is helping get the Castelao ready for the 2014 FIFA World Cup�.�",
+            "semanticTags": [ "2014 FIFA World Cup Brazil�", "Tournaments", "MIRANDINHA", "Brazil", "Brazil", "CONMEBOL" ],
+            "id": "87l57l15xjbo_45CC079FA586B061B226E6BA278B24D7",
+            "locale": "en",
+            "title": "The first Brazilian to play in England",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/45CC079FA586B061B226E6BA278B24D7",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "Brazil international Mirandinha <b>played</b> for Newcastle and the Selecao in the 1980s, and now he is helping get the Castelao ready for the 2014 FIFA World" ],
+            "title": [ "The first Brazilian to <b>play</b> in England" ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_9D4A8850F5980143C21C5FCC4696CF42",
+          "_score": 4.6781135,
+          "_source": {
+            "contentDate": "2019-12-05T17:49:15",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/396db6504c3173ff/original/buw8jb7sqcaqnmr0melx-jpg.jpg",
+              "alt": "",
+              "width": 5568,
+              "title": "buw8jb7sqcaqnmr0melx.jpg",
+              "height": 3712
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=w3_C-7p2HNE\"}",
+            "recordType": "video",
+            "description": "FIFA's Partners and Commercial Affiliates played a huge role in the success of the FIFA Confederations Cup Russia 2017.�Enjoy this recap video!",
+            "semanticTags": [ "Tournaments", "FIFA Confederations Cup Russia 2017�" ],
+            "id": "87l57l15xjbo_9D4A8850F5980143C21C5FCC4696CF42",
+            "locale": "en",
+            "title": "FIFA Confederations Cup 2017 - Marketing Highlights",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/9D4A8850F5980143C21C5FCC4696CF42",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "description": [ "FIFA's Partners and Commercial Affiliates <b>played</b> a huge role in the success of the FIFA Confederations Cup Russia 2017.�Enjoy this recap video!" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_08C59FDC008317F9C28C0B218FD70039",
+          "_score": 4.6640306,
+          "_source": {
+            "contentDate": "2015-01-12T21:02:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/40572a8ebfd0ff84/original/idowv4ihk1uqouq5tb9x-jpg.jpg",
+              "alt": "",
+              "width": 4748,
+              "title": "idowv4ihk1uqouq5tb9x.jpg",
+              "height": 3100
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=uiCa41H01Xo\"}",
+            "recordType": "video",
+            "description": "The men and women who volunteer themselves to countries host FIFA tournaments - including the 2014 World Cup - were awarded the Fair Play Award at the FIFA Ballon d'Or Gala on 12 January 2015.",
+            "semanticTags": [ "The Best Awards", "FIFA Ballon d'Or 2014" ],
+            "id": "87l57l15xjbo_08C59FDC008317F9C28C0B218FD70039",
+            "locale": "en",
+            "title": "Event Volunteers: FIFA Fair Play Award 2014",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/08C59FDC008317F9C28C0B218FD70039",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "The men and women who volunteer themselves to countries host FIFA tournaments - including the 2014 World Cup - were awarded the Fair <b>Play</b> Award at the" ],
+            "title": [ "Event Volunteers: FIFA Fair <b>Play</b> Award 2014" ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_F5C4B61A2D5FF71913DBEC4DB3F46342",
+          "_score": 4.6422133,
+          "_source": {
+            "contentDate": "2020-05-10T04:00:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/624354fe1ae83092/original/k2mbjvb5pdqvdhavczn5-jpg.jpg",
+              "alt": "",
+              "width": 4912,
+              "title": "k2mbjvb5pdqvdhavczn5.jpg",
+              "height": 7360
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=7NhhC3e4f6U\"}",
+            "recordType": "video",
+            "description": "In almost 100 countries around the world, today, is Mother's Day.\n\nFIFA Legends, male and female, explain the debt they owe their mum's, for the role they played in their football careers. \n\nIt's an emotional one.",
+            "semanticTags": [ "Tournaments", "FIFA Women's World Cup France 2019�" ],
+            "id": "87l57l15xjbo_F5C4B61A2D5FF71913DBEC4DB3F46342",
+            "locale": "en",
+            "title": "Happy Mother's Day",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/F5C4B61A2D5FF71913DBEC4DB3F46342",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "description": [ "FIFA Legends, male and female, explain the debt they owe their mum's, for the role they <b>played</b> in their football careers. \n\nIt's an emotional one." ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_9D214A175C435A9176E473AE25F81CE3",
+          "_score": 4.6372952,
+          "_source": {
+            "contentDate": "2020-07-19T13:00:06",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/2515472191e62dd5/original/jbhh28pstefziwzb1gy1-jpg.jpg",
+              "alt": "",
+              "width": 2537,
+              "title": "jbhh28pstefziwzb1gy1.jpg",
+              "height": 1691
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://www.youtube.com/watch?v=RhdPXLeVUVU\"}",
+            "recordType": "video",
+            "description": "Costa Rica�s Keylor Navas enjoyed a tournament to remember at Brazil 2014, playing a huge role in helping his country record their best-ever finish at the FIFA World Cup�. This is his story.",
+            "semanticTags": [ "2014 FIFA World Cup Brazil�", "Tournaments", "Keylor NAVAS", "Costa Rica" ],
+            "id": "87l57l15xjbo_9D214A175C435A9176E473AE25F81CE3",
+            "locale": "en",
+            "title": "Gems Uncovered: Keylor Navas",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/9D214A175C435A9176E473AE25F81CE3",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": { "description": [ "Costa Rica�s Keylor Navas enjoyed a tournament to remember at Brazil 2014, <b>playing</b> a huge role in helping his country record their best-ever finish at" ] }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_6tZISPi2MSRiF7PVnL08At",
+          "_score": 4.560528,
+          "_source": {
+            "contentDate": "2021-07-01T00:00:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/59abbfd2f753d2b3/original/Nuno-Gomes-Portugal-V-England-Portugal-V-England-Euro-2004-Luz-Stadium-Lisbon-Portugal-24-June-2004-PUBLICATIONxINxGER.jpg",
+              "alt": "Nuno Gomes Portugal V England Portugal V England Euro 2004 Luz Stadium, Lisbon, Portugal 24 June 2004 PUBLICATIONxINxGERxSUIxAUTxONLY Copyright: Allstar/RichardxSelle 12831997",
+              "width": 2676,
+              "title": "Nuno Gomes Portugal V England Portugal V England Euro 2004 Luz Stadium, Lisbon, Portugal 24 June 2004 PUBLICATIONxINxGER",
+              "height": 1790
+            },
+            "additionalInformation": "{\"VideoSource\":\"Youtube\",\"VideoUrl\":\"https://youtu.be/7RCxgaiy87s\"}",
+            "recordType": "video",
+            "description": "In the ninth episode, Portugal Legend Nuno Gomes reflects on his career. From playing on the streets of his hometown, to appearing at two edition of the FIFA World Cup. \n\nFIFA Chief of Global Football Development Arsene Wenger discusses his Global Report, reviewing technical development in over 200 countries. And we see how FIFA�s COVID-19 Relief Fund helped get Barbadian football back on track.",
+            "id": "87l57l15xjbo_6tZISPi2MSRiF7PVnL08At",
+            "locale": "en",
+            "title": " Living Football Episode 9",
+            "url": "https://app.contentful.com//spaces/87l57l15xjbo/entries/6tZISPi2MSRiF7PVnL08At",
+            "fifaProducts": [ "fifacom" ]
+          },
+          "highlight": {
+            "description": [ "From <b>playing</b> on the streets of his hometown, to appearing at two edition of the FIFA World Cup." ]
+          }
+        }
+      ]
+    }
+  }
+}

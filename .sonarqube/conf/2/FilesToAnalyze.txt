@@ -1,0 +1,6 @@
+﻿C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\TestsData\API\ConfigurationData\ClientConfiguration.json
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\TestsData\API\ExpectedData\RecordTypeExpectedData.json
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\TestsData\API\ExpectedData\searchResultsExpectedData.json
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\TestsData\API\RequestData\fifaSearchRequestData.json
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\TestsData\API\RequestData\RecordTypeRequestData.json
+C:\Users\TheYorick\Desktop\folder\123\fifa_project\TestAutomationFramework\TestsData\UI\ExpectedData\testsData.dev.json

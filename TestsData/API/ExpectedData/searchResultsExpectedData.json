@@ -1,0 +1,1188 @@
+﻿{
+  "searchResults": {
+    "took": 42,
+    "timed_out": false,
+    "_shards": {
+      "total": 1,
+      "successful": 1,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 322,
+        "relation": "eq"
+      },
+      "max_score": 43.478535,
+      "hits": [
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0xcf3d7c0fb7d7cd4b8388686272fefd14",
+          "_score": 43.478535,
+          "_source": {
+            "contentDate": "2020-07-01T06:40:00Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/6eb95a5113892220/original/xlowpv4zsfmz61gxidzv-jpg.jpg",
+              "alt": "#WorldCupAtHome | Brazil v France (Germany 2006)",
+              "width": 1280,
+              "title": "#WorldCupAtHome | Brazil v France (Germany 2006)",
+              "height": 720
+            },
+            "recordType": "article",
+            "description": "When Brazil and France faced off in the quarter-finals of the 2006 FIFA World Cup Germany™ at Frankfurt’s Commerzbank Arena, there was a semi-final place at stake, with Germany, Italy and Portugal waiting for them in the last four. The match was a re...",
+            "semanticTags": [
+              "Tournaments",
+              "2006 FIFA World Cup Germany™",
+              "France",
+              "Brazil",
+              "Zinedine ZIDANE",
+              "Thierry HENRY",
+              "France",
+              "Brazil"
+            ],
+            "placementTags": [
+              "2006 FIFA World Cup Germany™"
+            ],
+            "id": "87l57l15xjbo_0xcf3d7c0fb7d7cd4b8388686272fefd14",
+            "locale": "en",
+            "title": "Tadic: Zidane was my hero",
+            "url": "https://www.fifa.com/en/news/zidane-hits-heights-oust-brazil-world-cup-2006-3069576",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "title": [
+              "#WorldCupAtHome: <b>Zidane</b> hits the heights to oust Brazil"
+            ],
+            "body": [
+              "The match was a repeat of the Final of France 1998 and once again the men in blue emerged triumphant, thanks a sublime <b>Zinedine</b> <b>Zidane</b> performance and",
+              "France : Fabien Barthez, Willy Sagnol, Lilian Thuram, William Gallas, Eric Abidal, Patrick Vieria, Claude Makelele, Franck Ribery (Sidney Govou, 77'), <b>Zinedine</b>",
+              "France defender Eric Abidal “It was <b>Zinedine</b> <b>Zidane’s</b> first ever assist for Thierry Henry. Oh yeah! It stopped people from going on about it.",
+              "France midfielder and captain <b>Zidane</b> “We lost because we weren’t able to play our game. It’s hard to explain why.",
+              "Their hopes of lifting the Trophy for a second time were boosted when <b>Zidane</b> converted a penalty with only seven minutes gone."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0x965cc669677a7940a29dfaae7e0dcd1d",
+          "_score": 42.058887,
+          "_source": {
+            "contentDate": "2021-03-17T20:07:39Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/2b14109a7a5b433a/original/gubldbam5q53awyk169g-jpg.jpg",
+              "alt": "BELGRADE, SERBIA - OCTOBER 11: Dusan Tadic of Serbia looks on during the UEFA Nations League group stage match between Serbia and Hungary at Rajko Mitic Stadium on October 11, 2020 in Belgrade, Serbia. (Photo by Srdjan Stevanovic/Getty Images)",
+              "width": 3882,
+              "title": "Dusan Tadic of Serbia looks on during the UEFA Nations League group stage match between Serbia and Hungary at Rajko Mitic Stadium on October 11, 2020 in Belgrade",
+              "height": 2910
+            },
+            "recordType": "article",
+            "description": "Serbia begin their FIFA World Cup Qatar 2022™ qualification bid next week, taking on their two biggest rivals in Group A in Belgrade: Republic of Ireland on 24 March, followed by Portugal three days later.",
+            "semanticTags": [
+              "Tournaments",
+              "Interview",
+              "FIFA World Cup Qatar 2022™",
+              "Serbia",
+              "UEFA"
+            ],
+            "placementTags": [
+              "FIFA World Cup Qatar 2022™"
+            ],
+            "id": "87l57l15xjbo_0x965cc669677a7940a29dfaae7e0dcd1d",
+            "locale": "en",
+            "title": "Tadic: Zidane was my hero",
+            "url": "https://www.fifa.com/en/news/tadic-zidane-was-my-hero",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "title": [
+              "Tadic: <b>Zidane</b> was my hero"
+            ],
+            "body": [
+              "Tadic: <b>Zidane</b> was my hero .css-wmw4vi-ReactDropdownSelect{box-sizing:border-box;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox",
+              "<b>Zinedine</b> <b>Zidane</b> was my hero and I loved watching him. Ronaldo was a phenomenal player and made an impact on me too, and so did Ronaldinho."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0x9965e913b57d044cb3eab2f2827c64c4",
+          "_score": 38.974903,
+          "_source": {
+            "contentDate": "2020-07-12T04:41:00Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/12a1644aaba286a/original/zzgwwllliy8ciloh7bkl-jpg.jpg",
+              "alt": "Zinedine Zidane heads home the opening goal for France against Brazil in the 1998 FIFA World Cup™ Final.",
+              "width": 2543,
+              "title": "Zinedine Zidane heads home the opening goal for France in 1998",
+              "height": 1550
+            },
+            "recordType": "article",
+            "description": "",
+            "semanticTags": [
+              "Classic",
+              "Tournaments",
+              "Algeria",
+              "Brazil",
+              "France",
+              "Brazil -  France",
+              "Christian KAREMBEU",
+              "DENILSON",
+              "Didier DESCHAMPS",
+              "Emmanuel PETIT",
+              "Fabien BARTHEZ",
+              "Frank LEBOEUF",
+              "Lilian THURAM",
+              "Marcel DESAILLY",
+              "Patrick VIEIRA",
+              "RONALDO",
+              "Stephane GUIVARCH",
+              "TAFFAREL",
+              "Taribo WEST",
+              "Zinedine ZIDANE",
+              "Classic History",
+              "Brazil",
+              "France",
+              "1998 FIFA World Cup France™",
+              "CAF",
+              "UEFA",
+              "CONMEBOL"
+            ],
+            "placementTags": [
+              "Tournaments"
+            ],
+            "id": "87l57l15xjbo_0x9965e913b57d044cb3eab2f2827c64c4",
+            "locale": "en",
+            "title": "Zidane heads France to the heavens",
+            "url": "https://www.fifa.com/en/news/zidane-heads-france-the-heavens-2134354",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "title": [
+              "<b>Zidane</b> heads France to the heavens"
+            ],
+            "body": [
+              "<b>Zidane</b> heads France to the heavens .css-wmw4vi-ReactDropdownSelect{box-sizing:border-box;position:relative;display:-webkit-box;display:-webkit-flex;display",
+              "had already flicked one effort just over before, following a feint, a flick, a one-two, a side-step and the cheekiest of nutmegged through-balls from <b>Zinedine</b>",
+              "<b>Zidane</b>, the Auxerre striker was presented with a glaring chance.",
+              "Emmanuel Petit whipped in an inswinging corner and <b>Zidane</b> rose above Leonardo to power a downward header into the back of the net from six yards.",
+              "Jacquet added: \"<b>Zidane</b> has extraordinary gifts. He has an internal vision and can make the ball do whatever he wants."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0xea2c0200bb7de340b1d10ce7ecb97c85",
+          "_score": 36.71697,
+          "_source": {
+            "contentDate": "2020-03-31T10:59:39Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/2228ff44b50174fe/original/nkr5004uwatbaz3il8qf-jpg.jpg",
+              "alt": "WorldCupAtHome_Menu-of-the-Week3_1440x630px",
+              "width": 1440,
+              "title": "WorldCupAtHome_Menu-of-the-Week3_1440x630px",
+              "height": 630
+            },
+            "recordType": "article",
+            "description": "With millions of views of #WorldCupAtHome content so far on FIFA’s YouTube Channel, fans have voted in their thousands once more to decide the next round of full matches to be re-broadcast.",
+            "semanticTags": [
+              "Tournaments",
+              "2006 FIFA World Cup Germany™",
+              "1990 FIFA World Cup Italy™",
+              "2018 FIFA World Cup Russia™",
+              "FIFA Women's World Cup Canada 2015™",
+              "Brazil",
+              "France",
+              "Argentina",
+              "Portugal",
+              "Spain",
+              "USA",
+              "Germany",
+              "FIFA World Cup Qatar 2022™"
+            ],
+            "placementTags": [
+              "2006 FIFA World Cup Germany™"
+            ],
+            "id": "87l57l15xjbo_0xea2c0200bb7de340b1d10ce7ecb97c85",
+            "locale": "en",
+            "title": "#WorldCupAtHome: Relive Cristiano, Zidane and Maradona magic",
+            "url": "https://www.fifa.com/en/news/worldcupathome-relive-cristiano-zidane-and-maradona-magic",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "title": [
+              "#WorldCupAtHome: Relive Cristiano, <b>Zidane</b> and Maradona magic"
+            ],
+            "body": [
+              "#WorldCupAtHome: Relive Cristiano, <b>Zidane</b> and Maradona magic .css-wmw4vi-ReactDropdownSelect{box-sizing:border-box;position:relative;display:-webkit-box",
+              "Magical moments from three defining players of their eras - Cristiano Ronaldo, <b>Zinedine</b> <b>Zidane</b> and Diego Maradona - headline the full match replays of"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_2kF2HV24yN3RSDPArksoA5",
+          "_score": 35.502846,
+          "_source": {
+            "contentDate": "2022-01-08T09:00:00Z",
+            "image": {
+              "focalPosX": 992,
+              "src": "https://digitalhub.fifa.com/transform/46f27aaa-2741-4171-90f2-dc8730146e33/Samuel-Eto-o-Ronaldinho-and-Frank-Lampard-at-the-FIFA-World-Player-of-the-Year-Gala",
+              "focalPosY": 570,
+              "alt": " FIFA World Player Gala 2005 - Weltfußballer Ronaldinho Brasilien / FC Barcelona, Mitte zwischen Frank Lampard England / FC Chelsea London, re. und Samuel Eto o Kamerun / FC Barcelona",
+              "width": 2008,
+              "title": "Samuel Eto'o, Ronaldinho and Frank Lampard at the FIFA World Player of the Year Gala",
+              "height": 1425
+            },
+            "recordType": "article",
+            "description": "Featuring several Gods of the game, we deliver you some stats from the three-decade history of The Best FIFA Men’s Player.",
+            "semanticTags": [
+              "The Best - FIFA Football Awards 2021",
+              "Tournaments & Events",
+              "LEWANDOWSKI Robert",
+              "Poland",
+              "UEFA",
+              "Lionel MESSI",
+              "Argentina",
+              "CONMEBOL",
+              "Mohammed SALAH",
+              "Egypt",
+              "CAF",
+              "Germany",
+              "England",
+              "Spain",
+              "France",
+              "CRISTIANO RONALDO",
+              "Portugal",
+              "RONALDO",
+              "Brazil",
+              "Thierry HENRY",
+              "RONALDINHO",
+              "Oliver KAHN",
+              "NEUER Manuel",
+              "Fabio CANNAVARO",
+              "Italy",
+              "Hristo STOICHKOV",
+              "Bulgaria",
+              "The Best Awards"
+            ],
+            "placementTags": [
+              "The Best - FIFA Football Awards 2021"
+            ],
+            "id": "87l57l15xjbo_2kF2HV24yN3RSDPArksoA5",
+            "locale": "en",
+            "title": "The Best FIFA Men’s Player in stats",
+            "url": "https://www.fifa.com/en/news/the-best-fifa-mens-player-in-stats",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "The only winners based outside of La Liga in that century were <b>Zinedine</b> <b>Zidane</b> (Juventus in 2000), Kaka (AC Milan in 2007), Ronaldo (Manchester United",
+              "France have three, all thanks to <b>Zinedine</b> <b>Zidane</b>, while Italy is the only other nation with multiple triumphs, Baggio and Fabio Cannavaro giving them two"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0xd8d6d2cbfd7cf7429561913f470dd173",
+          "_score": 34.08464,
+          "_source": {
+            "contentDate": "2018-05-31T11:45:12Z",
+            "recordType": "article",
+            "description": "Zinedine Zidane has announced he is resigning from his role as Real Madrid coach, five days after winning his third consecutive UEFA Champions League trophy in charge of Los Blancos.",
+            "placementTags": [
+              "FIFA Club World Cup UAE 2018™"
+            ],
+            "semanticTags": [
+              "Tournaments",
+              "FIFA Club World Cup UAE 2018™",
+              "Zinedine ZIDANE",
+              "France"
+            ],
+            "id": "87l57l15xjbo_0xd8d6d2cbfd7cf7429561913f470dd173",
+            "locale": "en",
+            "title": "Zidane departs Real Madrid",
+            "url": "https://www.fifa.com/en/news/zidane-departs-real-madrid",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "description": [
+              "<b>Zinedine</b> <b>Zidane</b> has announced he is resigning from his role as Real Madrid coach, five days after winning his third consecutive UEFA Champions League trophy"
+            ],
+            "title": [
+              "<b>Zidane</b> departs Real Madrid"
+            ],
+            "body": [
+              "<b>Zidane</b> departs Real Madrid .css-wmw4vi-ReactDropdownSelect{box-sizing:border-box;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox",
+              ":hover path{stroke:#0074D9;}.css-1yc4zyy-DropdownHandleComponent:focus{outline:none;}.css-1yc4zyy-DropdownHandleComponent:focus path{stroke:#0074D9;} <b>Zinedine</b>",
+              "<b>Zidane</b> announces he is leaving Real Madrid Departure comes days after winning third consecutive Champions League “I think it would be difficult to keep",
+              "<b>Zinedine</b> <b>Zidane</b> has announced he is resigning from his role as Real Madrid coach, five days after winning his third consecutive UEFA Champions League trophy",
+              "Perez admitted that <b>Zidane's</b> decision had taken him by surprise and, as a result, was not able to comment on a possible successor."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_5sX98uCYQxVraRUHVCrIOD",
+          "_score": 33.08428,
+          "_source": {
+            "contentDate": "2021-12-16T08:00:00+00:00",
+            "image": {
+              "focalPosX": 3887,
+              "src": "https://digitalhub.fifa.com/transform/b8860407-c1cf-4a1d-b6ce-d6429de3c65c/-Paul-Kalkbrenner-on-stage",
+              "focalPosY": 3857,
+              "alt": "Paul Kalkbrenner on stage in Berlin (08/10/2021)",
+              "width": 7952,
+              "title": "image >  Paul Kalkbrenner on stage",
+              "height": 5304
+            },
+            "recordType": "article",
+            "description": "An exclusive interview with electronic music star Paul Kalkbrenner about his love for the beautiful game ahead of The Best FIFA Football Awards",
+            "semanticTags": [
+              "The Best - FIFA Football Awards 2021",
+              "The Best Awards",
+              "Tournaments & Events",
+              "Germany",
+              "France",
+              "UEFA",
+              "VIP Interview",
+              "FIFA Organisation"
+            ],
+            "placementTags": [],
+            "id": "87l57l15xjbo_5sX98uCYQxVraRUHVCrIOD",
+            "locale": "en",
+            "title": "Paul Kalkbrenner: Lewandowski will only get better",
+            "url": "https://www.fifa.com/en/news/paul-kalkbrenner-lewandowski-will-only-get-better",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "He also recalled his favourite World Cup memories and told us why Erling Haaland will one day be the best, and why he thinks <b>Zinedine</b> <b>Zidane</b> is the greatest",
+              "That’s a really tough question, but if you’re talking about style, I’d have to say <b>Zinedine</b> <b>Zidane</b>.",
+              "Obviously, people say that Pele or [Diego] Maradona were the best or even Michel Platini, but I loved <b>Zidane’s</b> style."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_2vLN8zWAuJl1yt7Mw9excY",
+          "_score": 32.78459,
+          "_source": {
+            "contentDate": "2021-11-22T09:00:00+00:00",
+            "image": {
+              "focalPosX": 1102,
+              "src": "https://digitalhub.fifa.com/m/c463cac5f4a14e5a/original/dyzbfzcbjfqovdzuhwcm-jpg.jpg",
+              "focalPosY": 774,
+              "alt": "FIFA World Player Gala 2007, Zurich. From left to right: Kaka (BRA), Lionel Messi (ARG) and Cristiano Ronaldo (POR)",
+              "width": 2205,
+              "title": "Kaka (BRA), Lionel Messi (ARG) and Cristiano Ronaldo (POR) at FIFA World Player Gala 2007",
+              "height": 1549
+            },
+            "recordType": "article",
+            "description": "To mark the 30th anniversary of the world's best men's player award, FIFA.com traces its 30-year history with 30 stats about one of the most coveted accolades in world football.",
+            "semanticTags": [
+              "The Best - FIFA Football Awards 2021",
+              "The Best Awards",
+              "Tournaments & Events",
+              "France",
+              "UEFA",
+              "Italy",
+              "England",
+              "Brazil",
+              "CONMEBOL",
+              "Argentina",
+              "Spain",
+              "Liberia",
+              "CAF",
+              "Germany",
+              "Netherlands",
+              "Poland",
+              "Croatia"
+            ],
+            "placementTags": [
+              "The Best - FIFA Football Awards 2021"
+            ],
+            "id": "87l57l15xjbo_2vLN8zWAuJl1yt7Mw9excY",
+            "locale": "en",
+            "title": "From World Player of the Year to The Best: 30 years of history",
+            "url": "https://www.fifa.com/en/news/from-world-player-of-the-year-to-the-best-30-years-of-history",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "The  Blaugrana  have been the most represented club on the World Player podium with 29 appearances.",
+              23,
+              "-",
+              "It",
+              "was",
+              23,
+              "years",
+              "ago",
+              "that",
+              "<b>Zinedine</b>",
+              "<b>Zidane</b>",
+              "won\",",
+              "To date it has happened five times with the winners in question being: Marco van Basten (1992), Romario (1994), <b>Zinedine</b> <b>Zidane</b> (2000), Cristiano Ronaldo"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0x2024ceb058f4644597e503d04b2ffe20",
+          "_score": 31.560932,
+          "_source": {
+            "contentDate": "2021-11-23T07:43:00+00:00",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/291337bc100af698/original/embuvnceht7dngs26ayb-jpg.jpg",
+              "alt": "The Best trophy",
+              "width": 5568,
+              "title": "The Best trophy",
+              "height": 3712
+            },
+            "recordType": "article",
+            "description": "Preparations are well underway for The Best FIFA Football Awards 2021™ on 17 January 2022.",
+            "semanticTags": [
+              "The Best Awards",
+              "The Best - FIFA Football Awards 2020"
+            ],
+            "placementTags": [
+              "The Best Awards"
+            ],
+            "id": "87l57l15xjbo_0x2024ceb058f4644597e503d04b2ffe20",
+            "locale": "en",
+            "title": "A brief history of The Best",
+            "url": "https://www.fifa.com/en/news/a-brief-history-of-the-best",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "and Cristiano Ronaldo greet each other during The Best FIFA Football Awards at The May Fair Hotel on October 23,... 06 / 15 2017: Cristiano Ronaldo & <b>Zinedine</b>",
+              "<b>Zidane</b> LONDON, ENGLAND - OCTOBER 23:  Cristiano Ronaldo of Portugal and Real Madrid CF wins The best Fifa men's player and <b>Zinedine</b> <b>Zidane</b> of France and"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0xbde963fe60a4c942abe31f36d72c38a5",
+          "_score": 30.021715,
+          "_source": {
+            "contentDate": "2021-03-09T10:03:37Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/49afa1da6c11f48f/original/ayljq8dmyrt5hunmgnmk-jpg.jpg",
+              "alt": "PARIS, FRANCE - JUNE 15: <> on June 15, 2020 in Paris, France. (Photo by Pascal Le Segretain/Getty Images For Laureus)",
+              "width": 3000,
+              "title": "Lisa Zimouche (Freestyle)",
+              "height": 2000
+            },
+            "recordType": "article",
+            "description": "\"I don't know if I'm a role model now, but I'm doing everything I can to show people that a girl playing football is normal,\" Lisa Zimouche told FIFA.com. \"If my backstory can inspire young girls, then I'll have achieved my goal.\"",
+            "semanticTags": [
+              "Football Development",
+              "Development Programmes",
+              "Algeria",
+              "France",
+              "Women's Football"
+            ],
+            "placementTags": [
+              "Development Programmes"
+            ],
+            "id": "87l57l15xjbo_0xbde963fe60a4c942abe31f36d72c38a5",
+            "locale": "en",
+            "title": "The girl using tricks to enrapture and inspire",
+            "url": "https://www.fifa.com/en/news/the-girls-using-tricks-to-enrapture-and-inspire",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "on the books of Paris Saint-Germain She instead became one of the world's top freestylers She discusses meeting the likes of Bolt, Neymar, Pogba and <b>Zidane</b>",
+              "It all began with a very young Lisa kicking the ball around outside her building, having been inspired by the exploits of the France team of <b>Zinedine</b> <b>Zidane</b>",
+              "<b>Zinedine</b> <b>Zidane</b> \"I was invited to a tournament by his association, the Z5 in Marseille, and I played against his family (laughs), including his sons, nephews"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0x362d00863c067e47bdd093793c0c91fc",
+          "_score": 29.33026,
+          "_source": {
+            "contentDate": "2020-09-16T09:54:00Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/7d65f20a367fa235/original/ov7ajafhhkqko7fgmmbg-jpg.jpg",
+              "alt": "Danilo of Juventus.",
+              "width": 3604,
+              "title": "Danilo of Juventus",
+              "height": 2403
+            },
+            "recordType": "article",
+            "description": "“I’m very happy to have won league titles in England, Spain and Italy,” said Cristiano Ronaldo as he was showered with champagne in 2019. “It always feels good to be the only player in football history to have done something.”",
+            "semanticTags": [
+              "Tournaments",
+              "Interview",
+              "FIFA World Cup Qatar 2022™",
+              "Argentina",
+              "Belgium",
+              "Brazil",
+              "England",
+              "France",
+              "Italy",
+              "Netherlands",
+              "Portugal",
+              "Spain"
+            ],
+            "placementTags": [
+              "FIFA World Cup Qatar 2022™"
+            ],
+            "id": "87l57l15xjbo_0x362d00863c067e47bdd093793c0c91fc",
+            "locale": "en",
+            "title": "Danilo: Ability-wise Pirlo has still got it",
+            "url": "https://www.fifa.com/en/news/danilo-ability-wise-pirlo-has-still-got-it",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "stroke:#0074D9;}.css-1yc4zyy-DropdownHandleComponent:focus{outline:none;}.css-1yc4zyy-DropdownHandleComponent:focus path{stroke:#0074D9;} Danilo evaluates <b>Zinedine</b>",
+              "Bulldog Jonny, to discuss team-mates Ronaldo and Neymar, former team-mate Kevin De Bruyne, Andrea Pirlo’s early days in the  Juve  hot-seat, working under <b>Zinedine</b>",
+              "<b>Zidane</b> and Pep Guardiola, and the unique sensation of playing in a FIFA World Cup™.",
+              "FIFA.com: What were <b>Zinedine</b> <b>Zidane</b> and Pep Guardiola like to work under?",
+              "<b>Zidane’s</b> very calm, genuine, charismatic. He gets the best out of players by making them feel at ease."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_TeamPage:4IfxieI8mrHmb7zCAKP2pA43946",
+          "_score": 29.233006,
+          "_source": {
+            "contentDate": "2021-06-08T13:11:05.178Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/7327f417e6e2ed74/original/zm3bqlcyrinrmadmky8l-jpg.jpg",
+              "alt": "2006 FIFA World Cup Germany™ Official Poster",
+              "width": 1059,
+              "title": "2006 FIFA World Cup Germany™ Official Poster",
+              "height": 1498
+            },
+            "recordType": "fifaCompetition",
+            "description": " 2006 FIFA World Cup Germany™ : France",
+            "semanticTags": [
+              "2006 FIFA World Cup Germany™"
+            ],
+            "placementTags": [
+              "2006 FIFA World Cup Germany™"
+            ],
+            "id": "87l57l15xjbo_TeamPage:4IfxieI8mrHmb7zCAKP2pA43946",
+            "locale": "en",
+            "title": " 2006 FIFA World Cup Germany™ : France",
+            "url": "https://www.fifa.com/en/tournaments/mens/worldcup/2006germany/teams/43946",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "2006 FIFA World Cup Germany™  Overview Match Centre Teams France Runner-up 9 Goals 16 Yellow Cards 1 Red Cards TOURNAMENT AWARDS adidas Golden Ball <b>Zinedine</b>",
+              "<b>ZIDANE</b> France Players Mickael LANDREAU 1 Goalkeeper Jean-Alain BOUMSONG 2 Defender Eric ABIDAL 3 Defender Patrick VIEIRA 4 Midfield William GALLAS 5 Defender",
+              "Claude MAKELELE 6 Midfield Florent Malouda 7 Midfield Vikash DHORASOO 8 Midfield Sidney GOVOU 9 Forward <b>Zinedine</b> <b>ZIDANE</b> 10 Midfield Sylvain WILTORD 11",
+              "TREZEGUET 20 Forward Pascal CHIMBONDA 21 Defender Franck RIBÉRY 22 Midfield Gregory COUPET 23 Goalkeeper Top Scorers 3 Goals Thierry HENRY Forward 12 3 Goals <b>Zinedine</b>",
+              "<b>ZIDANE</b> Midfield 10 2 Goals Patrick VIEIRA Midfield 4 News 2006 FIFA World Cup Germany™ #WorldCupAtHome: <b>Zidane</b> hits the heights to oust Brazil 1 Jul 2020"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_1eSjkbpXhdEncibwcjt5zR",
+          "_score": 28.674913,
+          "_source": {
+            "contentDate": "2022-01-13T16:00:00Z",
+            "image": {
+              "focalPosX": 1915,
+              "src": "https://digitalhub.fifa.com/transform/8d6d14ef-be26-4391-be97-d916cb9d7bff/Jenni-Hermoso-of-Barcelona",
+              "focalPosY": 1277,
+              "alt": "BARCELONA, SPAIN - MARCH 18: Jenni Hermoso of Barcelona poses during the UEFA Women's Champions League Portraits at Barcelona Training Ground on March 18, 2021 in Barcelona, Spain. (Photo by Alex Caparros - UEFA/UEFA via Getty Images)",
+              "width": 3831,
+              "title": "Jenni Hermoso of Barcelona",
+              "height": 2554
+            },
+            "recordType": "article",
+            "description": "We highlight the 2020/21 season of The Best FIFA Women’s Player finalist Jenni Hermoso.",
+            "semanticTags": [
+              "The Best - FIFA Football Awards 2021",
+              "The Best Awards",
+              "Jennifer Hermoso",
+              "Spain",
+              "UEFA",
+              "Women's Football",
+              "FIFA Organisation",
+              "Tournaments & Events"
+            ],
+            "placementTags": [
+              "The Best - FIFA Football Awards 2021"
+            ],
+            "id": "87l57l15xjbo_1eSjkbpXhdEncibwcjt5zR",
+            "locale": "en",
+            "title": "Jenni Hermoso: Finalist in focus",
+            "url": "https://www.fifa.com/en/news/jenni-hermoso-the-best-fifa-womens-player-finalist-in-focus",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "Hermoso loved watching Fernando Redondo and <b>Zinedine</b> <b>Zidane</b> as a kid, but her biggest idol was Atletico Madrid ace Ana Fernandez Navarrete, AKA Nervy."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0xec3c623be956ab4db426eeec98b7de9b",
+          "_score": 28.632277,
+          "_source": {
+            "contentDate": "2020-06-07T08:03:00Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/49217f93bae57ca4/original/uui8nf5xmexvur4yrvbn-jpg.jpg",
+              "alt": "Cafu kisses the FIFA World Cup Trophy",
+              "width": 1876,
+              "title": "Cafu kisses the FIFA World Cup Trophy",
+              "height": 1251
+            },
+            "recordType": "article",
+            "description": "‘The Express Train’ has reached the half-century stop on the birthday track. Indeed Cafu, the only man to have appeared in the FIFA World Cup™ Final thrice, hiker of the Trophy at Korea/Japan 2002 and Brazil’s most-capped player, today celebrates tur...",
+            "semanticTags": [
+              "Tournaments",
+              "Interview",
+              "2002 FIFA World Cup Korea/Japan™",
+              "1998 FIFA World Cup France™",
+              "1994 FIFA World Cup USA™",
+              "FIFA World Cup Qatar 2022™",
+              "Brazil",
+              "Qatar"
+            ],
+            "placementTags": [
+              "2002 FIFA World Cup Korea/Japan™"
+            ],
+            "id": "87l57l15xjbo_0xec3c623be956ab4db426eeec98b7de9b",
+            "locale": "en",
+            "title": "Cafu: Ronaldinho was almost unmarkable",
+            "url": "https://www.fifa.com/en/news/cafu-ronaldinho-was-almost-unmarkable-brazil-world-cup",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "Ronaldinho was almost unmarkable English  - Other languages (3) Sunday, 7 June 2020, 08:03 (local time)  Cafu raves about Ronaldo, Ronaldinho, Taffarel and <b>Zinedine</b>",
+              "<b>Zidane</b> He predicts big things for Neymar and Trent Alexander-Arnold Brazil legend discusses lifting the FIFA World Cup Trophy ‘The Express Train’ has",
+              "FIFA.com  caught up with the exhilarating, inexhaustible former right-wingback to discuss the likes of Romario, Ronaldo, Ronaldinho, <b>Zinedine</b> <b>Zidane</b>, Neymar",
+              "(Photo ... 11 / 11 Cafu, Qatar 2022 Ambassador Cafu, Qatar 2022 Ambassador Next One of France’s was <b>Zinedine</b> <b>Zidane</b>, who ended Brazil’s World Cup dream"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0x6039f9411b41b546b41630d3fadfd3f3",
+          "_score": 28.523949,
+          "_source": {
+            "contentDate": "2020-07-09T05:25:00Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/566b4e9fc4179ca0/original/rqjc2xglwqirgffsblzm-jpg.jpg",
+              "alt": "Fabio Grosso (L) of Italy takes the matchwinning penalty, as goalkeeper Fabien Barthez (R) of France dives the wrong way during the FIFA World Cup Germany 2006 Final match between Italy and France at the Olympic Stadium on July 9, 2006 in Berlin, Germany.",
+              "width": 3000,
+              "title": "Fabio Grosso (L) of Italy takes the matchwinning penalty, as goalkeeper Fabien Barthez (R) of France dives the wrong way during the FIFA World Cup Germany 2006 Final.",
+              "height": 1821
+            },
+            "recordType": "article",
+            "description": " ",
+            "semanticTags": [
+              "2006 FIFA World Cup Germany™",
+              "Tournaments",
+              "Italy",
+              "Germany"
+            ],
+            "placementTags": [
+              "2006 FIFA World Cup Germany™"
+            ],
+            "id": "87l57l15xjbo_0x6039f9411b41b546b41630d3fadfd3f3",
+            "locale": "en",
+            "title": "Italy conquer the world as Germany wins friends",
+            "url": "https://www.fifa.com/en/news/italy-conquer-the-world-as-germany-wins-friends",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "Italy conquer the world as Germany wins friends Italy won their fourth world title on this day in 2006 <b>Zinedine</b> <b>Zidane</b> won adidas Golden Ball, saw red",
+              "The abiding memory of the Final at Berlin's Olympic Stadium may be of  <b>Zinedine</b> <b>Zidane's</b> meltdown , the France veteran earning an red card for headbutting",
+              "<b>Zidane</b> rolls back the years \nThey had plenty to savour, including the sight of <b>Zidane</b> rolling back the years to help Raymond Domenech's France see off"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_4IfxieI8mrHmb7zCAKP2pA",
+          "_score": 28.179342,
+          "_source": {
+            "contentDate": "2021-06-08T13:11:05.178Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/7327f417e6e2ed74/original/zm3bqlcyrinrmadmky8l-jpg.jpg",
+              "alt": "2006 FIFA World Cup Germany™ Official Poster",
+              "width": 1059,
+              "title": "2006 FIFA World Cup Germany™ Official Poster",
+              "height": 1498
+            },
+            "recordType": "fifaCompetition",
+            "description": " 2006 FIFA World Cup Germany™ ",
+            "semanticTags": [
+              "2006 FIFA World Cup Germany™"
+            ],
+            "placementTags": [
+              "2006 FIFA World Cup Germany™"
+            ],
+            "id": "87l57l15xjbo_4IfxieI8mrHmb7zCAKP2pA",
+            "locale": "en",
+            "title": " 2006 FIFA World Cup Germany™ ",
+            "url": "https://www.fifa.com/en/tournaments/mens/worldcup/2006germany",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "Final Tournament Standing 1 Winner Italy 2 Runner-up France 3 Third place Germany 4 Fourth place Portugal TOURNAMENT AWARDS Previous adidas Golden Ball <b>Zinedine</b>",
+              "<b>ZIDANE</b> France FIFA Fair Play award Brazil Brazil Spain Spain Best Young Player Award Lukas PODOLSKI Germany adidas Golden Boot Miroslav KLOSE Germany",
+              "2006 FIFA World Cup Germany™ <b>Zinedine</b> <b>Zidane’s</b> headbutt on Marco Materazzi | Germany 2006 | FIFA World Cup 2006 FIFA World Cup Germany™ Germany 0-2 Italy",
+              "Cup Germany™ Gems Uncovered: Lukas Podolski 2006 FIFA World Cup Germany™ Magic Number: No7s at Germany 2006 2006 FIFA World Cup Germany™ The Very Best: <b>Zinedine</b>",
+              "<b>Zidane</b> v Brazil"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_SeDIaBfUykIwRyu4OF3F6",
+          "_score": 28.164017,
+          "_source": {
+            "contentDate": "2021-11-27T08:00:00+00:00",
+            "image": {
+              "focalPosX": 936,
+              "src": "https://digitalhub.fifa.com/transform/40ad878f-d56c-4779-a800-4f330a79996d/The-Best-FIFA-Men-s-Coach-2021-The-nominees",
+              "focalPosY": 288,
+              "alt": "The Best FIFA Men's Coach 2021 - The nominees",
+              "width": 1920,
+              "title": "The Best FIFA Men's Coach 2021 - The nominees",
+              "height": 1080
+            },
+            "recordType": "article",
+            "description": "We spotlight the seven nominees for The Best FIFA Men’s Coach.",
+            "semanticTags": [
+              "The Best - FIFA Football Awards 2021",
+              "The Best Awards",
+              "Tournaments & Events",
+              "Italy",
+              "UEFA",
+              "Germany",
+              "Spain",
+              "Argentina",
+              "CONMEBOL"
+            ],
+            "placementTags": [],
+            "id": "87l57l15xjbo_SeDIaBfUykIwRyu4OF3F6",
+            "locale": "en",
+            "title": "The Best FIFA Men's Coach: nominees in focus",
+            "url": "https://www.fifa.com/en/news/the-best-fifa-mens-coach-nominees-in-focus",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "Flick, Guardiola, Mancini, Scaloni, Simeone and Tuchel We look at their achievements during the period under consideration Antonio Conte Runner-up to <b>Zinedine</b>",
+              "<b>Zidane</b> for The Best FIFA Men's Coach vote while managing Chelsea in 2017, Antonio Conte took the Inter Milan helm with serious title ambitions two years"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_74IlVOPXb9WQSTv9KTf2Ix",
+          "_score": 27.332968,
+          "_source": {
+            "contentDate": "2022-03-24T15:00:00+00:00",
+            "image": {
+              "focalPosX": 1540,
+              "src": "https://digitalhub.fifa.com/transform/2030488d-85b6-4672-9446-4a9b419331fb/Senegal-s-Sadio-Mane-and-Mo-Salah-of-Egypt",
+              "focalPosY": 813,
+              "alt": "YAOUNDE, CAMEROON - FEBRUARY 06: Senegal's Sadio Mane (L) consoles Egypt's Mohamed Salah (R) at the end of the Africa Cup of Nations (CAN) 2021 final match between Senegal and Egypt at Stade d'Olembe in Yaounde, Cameroon on February 06, 2022. Senegal won their first Africa Cup of Nations (AFCON) title Sunday after beating Egypt 4-2 on penalties in the final. (Photo by Adam Haneen/Anadolu Agency via Getty Images)",
+              "width": 2058,
+              "title": "Senegal's Sadio Mane and Mo Salah of Egypt",
+              "height": 1638
+            },
+            "recordType": "article",
+            "description": "As Egypt and Senegal get set to do battle for a Qatar 2022 place, we deliver stats, trivia and quotes on their respective superstars and Liverpool team-mates, Mo Salah and Sadio Mane.",
+            "semanticTags": [
+              "Preliminary Competition for the 2022 FWC African Zone",
+              "FIFA World Cup Qatar 2022™",
+              "FIFA World Cup™",
+              "Tournaments & Events",
+              "Egypt",
+              "Egypt",
+              "CAF",
+              "Senegal",
+              "Senegal",
+              "Sadio MANE",
+              "Mohamed SALAH"
+            ],
+            "placementTags": [
+              "FIFA World Cup Qatar 2022™"
+            ],
+            "id": "87l57l15xjbo_74IlVOPXb9WQSTv9KTf2Ix",
+            "locale": "en",
+            "title": "Mane versus Salah",
+            "url": "https://www.fifa.com/en/news/sadio-mane-senegal-versus-mohamed-salah-egypt-fifa-world-cup-qualifying-play-off",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "Salah:  Ronaldo, Francesco Totti, <b>Zinedine</b> <b>Zidane</b>.\r\n\r\n“I used to love El-Hadji Diouf and Ronaldinho, but especially Ronaldinho. He was… wow.",
+              "When I first got into football it was <b>Zidane</b>, the Brazilian Ronaldo and Totti."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0x32902648006a4743b70f36c1b2e03a1c",
+          "_score": 27.29306,
+          "_source": {
+            "contentDate": "2020-10-23T06:13:05Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/557e648faa26fef2/original/kn4zks7xrhfdc7g3saf5-jpg.jpg",
+              "alt": "Pele’s 80th Birthday Special | FIFA World Cup",
+              "width": 1280,
+              "title": "Pele’s 80th Birthday Special | FIFA World Cup",
+              "height": 720
+            },
+            "recordType": "article",
+            "description": "Pele played football with arguably more style than anyone in history. FIFA, therefore, wanted to celebrate his 80th birthday in some style.",
+            "semanticTags": [
+              "Tournaments",
+              "Interview",
+              "1970 FIFA World Cup Mexico™",
+              "Brazil",
+              "USA"
+            ],
+            "placementTags": [
+              "1970 FIFA World Cup Mexico™"
+            ],
+            "id": "87l57l15xjbo_0x32902648006a4743b70f36c1b2e03a1c",
+            "locale": "en",
+            "title": "A special video tribute to 'The King'",
+            "url": "https://www.fifa.com/en/news/a-special-video-tribute-to-the-king",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "Michael Owen, Paulo Cezar Caju, Pepe, Carles Puyol, Rivellino, Ronaldo, Karl-Heinz Rummenigge, Tostao, Bastian Schweinsteiger, Mario Zagallo, Zico and <b>Zinedine</b>",
+              "<b>Zidane</b> all send their best birthday wishes to Pele (one of them even sings them!)."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0x84014e56bd6c2f409ab71acb970ea6ad",
+          "_score": 27.278692,
+          "_source": {
+            "contentDate": "2020-05-07T16:51:54Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/261dd445359e00c8/original/jzkagop4dhxmjcfin3j4-jpg.jpg",
+              "alt": "#WorldCupAtHome | France v Croatia (France 1998)",
+              "width": 1280,
+              "title": "#WorldCupAtHome | France v Croatia (France 1998)",
+              "height": 720
+            },
+            "recordType": "article",
+            "description": "On 8 July 1998, the Stade de France provided the stage for an unprecedented FIFA World Cup™ semi-final. The French were one step away from reaching the Final for the first time, while their opponents, Croatia, were viewed as the surprise package of t...",
+            "semanticTags": [
+              "Tournaments",
+              "1998 FIFA World Cup France™",
+              "France",
+              "Croatia",
+              "France"
+            ],
+            "placementTags": [
+              "1998 FIFA World Cup France™"
+            ],
+            "id": "87l57l15xjbo_0x84014e56bd6c2f409ab71acb970ea6ad",
+            "locale": "en",
+            "title": "#WorldCupAtHome: Titanic Thuram sinks Croatia",
+            "url": "https://www.fifa.com/en/news/worldcupathome-titanic-thuram-sinks-croatia-3072150",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "Thuram, Marcel Desailly, Laurent Blanc, Christian Karembeu (Thierry Henry 31’), Didier Deschamps ©, Emmanuel Petit, Youri Djorkaeff (Frank Lebœuf 77’), <b>Zinedine</b>",
+              "<b>Zidane</b>, Stephane Guivarc'h (David Trezeguet, 68’) Croatia:  Drazen Ladic, Igor Stimac, Slaven Bilic, Dario Simic, Mario Stanic (Robert Prosinecki 89’)",
+              "In the Final, France resoundingly defeated a Ronaldo-led Brazil 3-0, courtesy of a headed brace by <b>Zinedine</b> <b>Zidane</b> and a late strike by Emmanuel Petit,"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_1q9b9QqvjPD71x2UBJOIvD",
+          "_score": 26.876303,
+          "_source": {
+            "contentDate": "2021-11-24T11:00:00Z",
+            "image": {
+              "focalPosX": 968,
+              "src": "https://digitalhub.fifa.com/transform/75f7fdb9-ed3a-42ab-af65-e4193a818986/FIFA-Best-Men-s-Player-2021-nominees",
+              "focalPosY": 456,
+              "alt": "FIFA Best Men's Player 2021 nominees.",
+              "width": 1920,
+              "title": "FIFA Best Men's Player 2021 nominees.",
+              "height": 1080
+            },
+            "recordType": "article",
+            "description": "We take a closer look at the men in the running and the amazing achievements they’ve accumulated.",
+            "semanticTags": [
+              "The Best - FIFA Football Awards 2021",
+              "The Best Awards",
+              "Local Organising Committee",
+              "Tournaments & Events",
+              "France",
+              "UEFA",
+              "Belgium",
+              "Norway",
+              "Argentina",
+              "CONMEBOL",
+              "Portugal",
+              "Egypt",
+              "CAF",
+              "Brazil",
+              "Italy",
+              "Poland"
+            ],
+            "placementTags": [],
+            "id": "87l57l15xjbo_1q9b9QqvjPD71x2UBJOIvD",
+            "locale": "en",
+            "title": "The Best FIFA Men’s Player: Nominees in focus",
+            "url": "https://www.fifa.com/en/news/the-best-fifa-mens-player-nominees-in-focus",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "He’s in good company too, with Thierry Henry and <b>Zinedine</b> <b>Zidane</b> the other members of that trio."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_3gTaVtbxQIHOHMqsT3694u",
+          "_score": 26.765522,
+          "_source": {
+            "contentDate": "2021-11-13T14:00:00Z",
+            "image": {
+              "focalPosX": 2391,
+              "src": "https://digitalhub.fifa.com/transform/87bd9418-10fb-48ce-8894-2f25df78459e/Sergej-Milinkovic-Savic-of-Serbia",
+              "focalPosY": 1586,
+              "alt": "KALININGRAD, RUSSIA - JUNE 12: Sergej Milinkovic-Savic of Serbia poses for a portrait during the official FIFA World Cup 2018 portrait session at  on June 12, 2018 in Kaliningrad, Russia. (Photo by Matthias Hangst - FIFA/FIFA via Getty Images)",
+              "width": 4783,
+              "title": "Sergej Milinkovic-Savic of Serbia",
+              "height": 3173
+            },
+            "recordType": "article",
+            "description": "Sergej Milinkovic-Savic hails Dusan Vlahovic and discusses how Serbia will pip Cristiano Ronaldo and Portugal for an automatic ticket to Qatar 2022.",
+            "semanticTags": [
+              "FIFA World Cup Qatar 2022™",
+              "Preliminary Competition for the 2022 FWC European Zone including Qatar",
+              "Serbia",
+              "Serbia",
+              "UEFA",
+              "Tournaments & Events",
+              "Sergej MILINKOVIC-SAVIC"
+            ],
+            "placementTags": [],
+            "id": "87l57l15xjbo_3gTaVtbxQIHOHMqsT3694u",
+            "locale": "en",
+            "title": "Milinkovic-Savic: Vlahovic is bound to be one of the greats",
+            "url": "https://www.fifa.com/en/news/sergej-milinkovic-savic-serbia-world-cup-qualifying-interview-dusan-vlahovic",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "up, there were a lot of good players, so naturally I watched all of them, but if I had to choose I’d say [Zlatan] Ibrahimovic and I closely watched [<b>Zinedine</b>",
+              "] <b>Zidane</b> because I started out in that position."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0x9bf051f64e3d8848a28eae70732c1f5f",
+          "_score": 26.732794,
+          "_source": {
+            "contentDate": "2021-02-11T07:55:26Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/c71f254b26435fe3/original/btdi4opqiq15ko05p5w0-jpg.jpg",
+              "alt": "BERLIN, GERMANY - JULY 04: The players of FC Bayern Muenchen throw their coach Head coach Hansi Flick of FC Bayern Muenchen in the air after winning the DFB Cup final match between Bayer 04 Leverkusen and FC Bayern Muenchen at Olympiastadion on July 04, 2020 in Berlin, Germany. (Photo by Alexander Hassenstein/Getty Images)",
+              "width": 4182,
+              "title": "The players of FC Bayern Muenchen throw their coach Head coach Hansi Flick of FC Bayern Muenchen in the air.",
+              "height": 2784
+            },
+            "recordType": "article",
+            "description": "By winning the FIFA Club World Cup™ final, Hansi Flick not only made history with FC Bayern München by matching Barcelona's record of six titles. He also set an individual best-mark: the 55-year-old became the first person to win both the Club World ...",
+            "semanticTags": [
+              "Tournaments",
+              "FIFA Club World Cup Qatar 2020™",
+              "Bayern München",
+              "FC Bayern München - Tigres UANL"
+            ],
+            "placementTags": [
+              "FIFA Club World Cup Qatar 2020™"
+            ],
+            "id": "87l57l15xjbo_0x9bf051f64e3d8848a28eae70732c1f5f",
+            "locale": "en",
+            "title": "Flick savours historic World Cup double",
+            "url": "https://www.fifa.com/en/news/flick-savours-historic-world-cup-double",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "<b>Zinedine</b> <b>Zidane</b> was triumphant at France 1998 as a player, and won the Club World Cup with Real Madrid in 2016 and 2017."
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_0xf7701fe5f13492479272eea0edc6295c",
+          "_score": 26.634693,
+          "_source": {
+            "contentDate": "2020-10-07T20:45:00Z",
+            "image": {
+              "src": "https://digitalhub.fifa.com/m/717a06753ec4c7db/original/rzseiestimsbced1lsvr-jpg.jpg",
+              "alt": "Joie des joueurs de l Equipe de France apres le but de GIROUD OLIVIER (France) FOOTBALL : France vs Ukraine - Match Amical - Paris 07/10/2020 JBAutissier/Panoramic PUBLICATIONxNOTxINxFRAxITAxBEL",
+              "width": 2248,
+              "title": "Olivier Giroud (France) celebrating vs Ukraine",
+              "height": 1499
+            },
+            "recordType": "article",
+            "description": "The unlikely star has hit the hundred – and outranked one of the game’s all-time greatest performers in the process. Olivier Giroud, who failed to win a youth cap for France at any level and who didn’t make it to Ligue 1 until he was in his mid-20s, ...",
+            "semanticTags": [
+              "Tournaments",
+              "France",
+              "England"
+            ],
+            "placementTags": [
+              "Tournaments"
+            ],
+            "id": "87l57l15xjbo_0xf7701fe5f13492479272eea0edc6295c",
+            "locale": "en",
+            "title": "Giroud hits 100 and outranks Platini",
+            "url": "https://www.fifa.com/en/news/giroud-hits-100-and-outranks-platini",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "Goals Caps Ratio Thierry Henry 51 123 0.41 Olivier Giroud 42 100 0.42 Michel Platini 41 72 0.57 David Trezeguet 34 71 0.48 Antoine Griezmann 32 81 0.40 <b>Zinedine</b>",
+              "<b>Zidane</b> 31 108 0.29 Just Fontaine 30 21 1.43 Jean-Pierre Papin 30 54 0.56 Youri Djorkaeff 28 82 0.34 Karim Benzema 27 81 0.33 40 Giroud's first 40 goals"
+            ]
+          }
+        },
+        {
+          "_index": "contentful-records-en",
+          "_type": "_doc",
+          "_id": "87l57l15xjbo_2fesOLc2lkxvOYdmFTtJB9",
+          "_score": 26.443258,
+          "_source": {
+            "contentDate": "2021-09-03T11:52:00Z",
+            "image": {
+              "focalPosX": 513,
+              "src": "https://digitalhub.fifa.com/m/331925cb8a5d71/original/241130706_4583542645003096_3573947519129455577_n.jpg",
+              "focalPosY": 284,
+              "alt": "Ghana coach Charles Akonnor speaks during a training session.",
+              "width": 1817,
+              "title": "Ghana coach Charles Akonnor speaks during a training session.",
+              "height": 1117
+            },
+            "recordType": "article",
+            "description": "Charles Akonnor relishing the pressure as he looks to World Cup success",
+            "semanticTags": [
+              "FIFA World Cup Qatar 2022™",
+              "Tournaments & Events",
+              "Ghana",
+              "CAF",
+              "Preliminary Competition for the 2022 FWC African Zone"
+            ],
+            "placementTags": [],
+            "id": "87l57l15xjbo_2fesOLc2lkxvOYdmFTtJB9",
+            "locale": "en",
+            "title": "Akonnor eyeing World Cup return for Black Stars ",
+            "url": "https://www.fifa.com/en/news/akonnor-eyeing-world-cup-return-for-black-stars",
+            "fifaProducts": [
+              "fifacom"
+            ]
+          },
+          "highlight": {
+            "body": [
+              "Ghana’s World Cup dream The appointment of young coaches has become something of a trend in the football world thanks to the success of the likes of <b>Zinedine</b>",
+              "<b>Zidane</b>, Antonio Conte and Pep Guardiola in Europe."
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
