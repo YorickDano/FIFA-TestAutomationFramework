@@ -32,5 +32,3 @@ A robust C#-based Test Automation Framework designed for testing FIFA-related ap
 - **Version Control**: Git
 - **Test Reporting**: Extent Reports / Allure
 - **Package Management**: NuGet
-
-## 📁 Project Structure
