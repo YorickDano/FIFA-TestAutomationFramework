@@ -51,19 +51,6 @@ FIFA-TestAutomationFramework/
 │ └── jenkinsfile # CI/CD pipeline
 └── reports/ # Test execution reports
 
-## 🏗️ Framework Architecture
-
-```mermaid
-graph TD
-    A[Feature Files] --> B[SpecFlow]
-    B --> C[Step Definitions]
-    C --> D[Page Objects]
-    C --> E[API Clients]
-    D --> F[Selenium WebDriver]
-    E --> G[REST API]
-    H[Test Data] --> C
-    I[Configuration] --> C
-
 ⚙️ Installation & Setup
 Prerequisites
 .NET 6.0 SDK or later
